@@ -1,2 +1,31 @@
-# shopify-order-automation-python
-🚀 Automated Shopify order processing with Python | Sync orders to Google Sheets, send SMS alerts &amp; generate invoices   ✅ Uses Shopify API + Python   ✅ Auto-syncs to Google Sheets (gspread)   ✅ Sends Twilio SMS notifications   ✅ Generates PDF invoices (reportlab)   ✅ Ready-to-deploy on AWS Lambda / Cron    #python #automation #shopify #ecommerce
+# Shopify Order Automation Tool
+
+Automate your e-commerce workflow by processing Shopify orders in real-time with Python. This script:
+- Fetches new orders via **Shopify Admin API**
+- Logs them to **Google Sheets** for analytics  
+- Sends SMS alerts via **Twilio**  
+- Generates PDF invoices  
+
+## 📊 Why Use This?
+- **Saves 10+ hours/week** on manual order management  
+- **Reduces errors** in order fulfillment  
+- **Scalable** for high-volume stores  
+
+## ⚙️ Tech Stack
+- Python 3.10+  
+- Shopify API  
+- Google Sheets API (gspread)  
+- Twilio (SMS)  
+- ReportLab (PDF generation)  
+
+## 🚀 Setup (3 Steps)
+1. Install requirements: `pip install -r requirements.txt`  
+2. Configure `.env` with your API keys  
+3. Run: `python main.py`  
+
+## 💡 Business Use Cases
+- Dropshipping stores  
+- Inventory management  
+- Order analytics  
+
+📌 **Want this customized for your business?** [Contact me on Upwork](your-upwork-link)  
