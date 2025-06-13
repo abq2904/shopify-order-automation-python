@@ -28,4 +28,4 @@ Automate your e-commerce workflow by processing Shopify orders in real-time with
 - Inventory management  
 - Order analytics  
 
-📌 **Want this customized for your business?** [Contact me on Upwork](https://www.upwork.com/freelancers/~016b6b9cae6189bad0?mp_source=share)  
+📌 **Want this customized for your business?** Send me a message
